@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.mo
+*.db
+*.sqlite3
+*.sqlite
+*.bak
+
+# Media & static files (opcional: si se generan en runtime)
+media/
+staticfiles/
+static/
+
+# If using Django collectstatic with a custom STATIC_ROOT:
+# STATIC_ROOT/
+# Puedes descomentar si tienes esta carpeta fuera de control de versiones
+# /path/to/static_root/
+
+# Local settings
+.env
+.env.*
+.envrc
+*.env
+config/settings/local.py
+secrets.json
+
+# Virtual envs
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs & editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Coverage & test output
+htmlcov/
+.coverage
+.tox/
+.nox/
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.cache
+*.pytest_cache
+
+# Jupyter / IPython
+.ipynb_checkpoints
+*.ipynb
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Docker
+*.pid
+docker-compose.override.yml

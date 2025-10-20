@@ -1,0 +1,2 @@
+2025-10-31 15:23:22,092 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-31 15:37:49,504 [INFO] django.utils.autoreload: /Users/eliudvasquez/Documents/GitRepositories/GitHub/back-faberit-punto-cdv-v1/core/settings.py changed, reloading.

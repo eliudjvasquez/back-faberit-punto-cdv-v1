@@ -1,0 +1,98 @@
+2025-10-31 15:37:50,290 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-31 15:51:30,975 [INFO] django.utils.autoreload: /Users/eliudvasquez/Documents/GitRepositories/GitHub/back-faberit-punto-cdv-v1/core/settings.py changed, reloading.
+2025-10-31 15:51:31,758 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-31 15:51:39,402 [INFO] django.utils.autoreload: /Users/eliudvasquez/Documents/GitRepositories/GitHub/back-faberit-punto-cdv-v1/core/settings.py changed, reloading.
+2025-10-31 18:42:40,262 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-31 18:45:46,130 [INFO] django.utils.autoreload: /Users/eliudvasquez/Documents/GitRepositories/GitHub/back-faberit-punto-cdv-v1/puntocdv/api.py changed, reloading.
+2025-10-31 18:45:47,086 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-31 18:46:09,292 [INFO] django.utils.autoreload: /Users/eliudvasquez/Documents/GitRepositories/GitHub/back-faberit-punto-cdv-v1/puntocdv/tasks.py changed, reloading.
+2025-10-31 18:46:09,978 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-31 19:09:47,321 [INFO] django.utils.autoreload: /Users/eliudvasquez/Documents/GitRepositories/GitHub/back-faberit-punto-cdv-v1/puntocdv/services/sorteo_service.py changed, reloading.
+2025-10-31 19:09:48,125 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-31 19:09:49,758 [INFO] django.utils.autoreload: /Users/eliudvasquez/Documents/GitRepositories/GitHub/back-faberit-punto-cdv-v1/puntocdv/services/sorteo_service.py changed, reloading.
+2025-10-31 19:09:50,350 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-31 19:09:51,663 [INFO] django.utils.autoreload: /Users/eliudvasquez/Documents/GitRepositories/GitHub/back-faberit-punto-cdv-v1/puntocdv/services/sorteo_service.py changed, reloading.
+2025-10-31 19:09:52,276 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-31 19:09:58,709 [INFO] django.utils.autoreload: /Users/eliudvasquez/Documents/GitRepositories/GitHub/back-faberit-punto-cdv-v1/puntocdv/services/sorteo_service.py changed, reloading.
+2025-10-31 19:09:59,301 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-31 19:10:03,767 [INFO] django.utils.autoreload: /Users/eliudvasquez/Documents/GitRepositories/GitHub/back-faberit-punto-cdv-v1/puntocdv/services/sorteo_service.py changed, reloading.
+2025-10-31 19:10:04,288 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-31 20:20:08,055 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:21:12,021 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:21:13,725 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:21:27,018 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:21:27,511 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:21:42,782 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:21:43,099 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:21:55,292 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:22:37,705 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:22:38,828 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:22:41,815 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:22:42,321 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:23:06,339 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:23:42,425 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:24:12,814 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:24:35,851 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:24:36,200 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:26:17,926 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:26:18,303 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:26:36,821 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:26:37,759 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:26:40,084 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:26:40,461 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:27:26,123 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:27:26,983 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:27:30,858 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:27:31,115 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:27:34,969 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:27:35,942 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:29:12,184 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:29:12,545 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:29:16,919 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:29:18,611 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:29:29,626 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:29:30,143 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:29:47,272 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:29:47,842 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:29:54,552 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:29:54,617 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:30:37,015 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:30:37,217 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:31:07,659 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:31:08,015 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:31:20,963 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:31:21,120 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:31:51,589 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:31:51,643 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:31:59,021 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:31:59,338 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:32:49,110 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:32:50,340 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:32:52,674 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:32:52,868 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:32:59,022 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:32:59,208 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:33:25,833 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-10-31 20:33:26,192 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:53:37,093 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:53:41,689 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:53:46,985 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:53:47,209 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:54:01,015 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:54:01,121 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:54:16,201 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:54:16,325 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:54:29,972 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:54:30,012 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:54:37,459 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:54:37,559 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:54:50,444 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:54:50,582 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:55:02,745 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 06:55:02,891 [INFO] puntocdv: La elaboración del Dashboard se realizó con éxito.
+2025-11-01 07:01:26,996 [INFO] django.utils.autoreload: /Users/eliudvasquez/Documents/GitRepositories/GitHub/back-faberit-punto-cdv-v1/core/celery.py changed, reloading.
+2025-11-01 07:01:28,446 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-01 07:01:30,216 [INFO] django.utils.autoreload: /Users/eliudvasquez/Documents/GitRepositories/GitHub/back-faberit-punto-cdv-v1/core/celery.py changed, reloading.
+2025-11-01 07:01:30,777 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-01 07:01:40,447 [INFO] django.utils.autoreload: /Users/eliudvasquez/Documents/GitRepositories/GitHub/back-faberit-punto-cdv-v1/core/celery.py changed, reloading.
+2025-11-01 07:01:41,196 [INFO] django.utils.autoreload: Watching for file changes with StatReloader

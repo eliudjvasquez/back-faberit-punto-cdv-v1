@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>¡Felicidades, eres el ganador!</title>
+
+    <style>
+      /* Reset básico para emails */
+      body,table,td,a { -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
+      table,td { mso-table-rspace:0pt; mso-table-lspace:0pt; }
+      img { -ms-interpolation-mode:bicubic; border:0; line-height:100%; outline:none; text-decoration:none; }
+      body { margin:0; padding:0; width:100% !important; background-color:#f6f7fb; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+      /* Contenedor */
+      .email-wrap { width:100%; background-color:#f6f7fb; padding:30px 0; }
+      .email-body { max-width:600px; margin:0 auto; background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 8px 30px rgba(30,40,60,0.08); }
+
+      /* Cabecera solo con imagen */
+      .header-image {
+        width: 100%;
+        display: block;
+        height: auto;
+        max-height: 400px;
+        object-fit: cover;
+      }
+
+      /* Contenido principal */
+      .content { padding:22px 28px 18px 28px; text-align:center; }
+      .title { font-size:22px; color:#0f1724; margin:6px 0 8px 0; font-weight:700; }
+      .lead { font-size:15px; color:#374151; margin:0 0 14px 0; line-height:1.45; }
+
+      .winner-name { font-size:20px; color:#0b6b39; font-weight:800; margin:8px 0; }
+      .prize { font-size:16px; color:#111827; margin:0 0 12px 0; }
+
+      /* QR + detalles */
+      .two-col { display:flex; gap:16px; justify-content:center; align-items:center; margin-top:14px; flex-wrap:wrap; }
+      .qr { width:110px; height:110px; border-radius:8px; overflow:hidden; box-shadow:0 6px 18px rgba(8,15,36,0.06); background:#fff; display:flex; align-items:center; justify-content:center; }
+      .info { max-width:320px; text-align:left; font-size:14px; color:#374151; }
+
+      .btn {
+        display:inline-block;
+        padding:12px 22px;
+        border-radius:10px;
+        text-decoration:none;
+        font-weight:700;
+        margin-top:14px;
+      }
+      .btn-primary { background:#0f6b5a; color:#fff; }
+      .btn-ghost { background:transparent; color:#0f6b5a; border:2px solid #e6f2ef; }
+
+      /* Footer */
+      .footer { padding:16px 24px 28px 24px; text-align:center; font-size:12px; color:#9ca3af; }
+
+      /* Responsive */
+      @media (max-width:420px) {
+        .content { padding:18px 16px; }
+        .title { font-size:20px; }
+        .two-col { gap:12px; }
+      }
+    </style>
+  </head>
+
+  <body>
+    <table role="presentation" class="email-wrap" width="100%" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="center">
+          <table role="presentation" class="email-body" width="600" cellpadding="0" cellspacing="0">
+            
+            <!-- Cabecera solo con imagen -->
+            <tr>
+              <td>
+                <img src="cid:banner_cid" alt="Cabecera del evento" class="header-image">
+              </td>
+            </tr>
+
+            <!-- Contenido -->
+            <tr>
+              <td class="content">
+                <div class="title">🎉 ¡Felicidades, {{ nombres }}!</div>
+                <div class="lead">Has sido seleccionado como ganador del premio:</div>
+
+                <div class="winner-name">{{ premio }}</div>
+                <div class="prize">Fecha del sorteo: {{ fecha }}</div>
+
+                <div class="two-col" role="group" aria-label="Información ganador">
+                  <div class="qr">
+                    <img src="cid:qr_cid" alt="QR de tu premio" style="width:100%; height:100%; object-fit:cover;">
+                  </div>
+
+                  <div class="info">
+                    <p style="margin:0 0 8px 0;"><strong>¿Qué sigue?</strong></p>
+                    <p style="margin:0 0 10px 0;">Muestra el QR para recoger tu premio. Nuestro equipo te contactará para coordinar la entrega.</p>
+                  </div>
+                </div>
+
+                <p style="font-size:13px;color:#6b7280;margin-top:18px;">Presenta este correo como comprobante — si deseas, guarda el código QR.</p>
+              </td>
+            </tr>
+
+            <!-- Footer -->
+            <tr>
+              <td class="footer">
+                <div>© 2025 Punto CDV — Stereo Fest</div>
+                <div style="margin-top:6px;">¿No esperabas este correo? <a href="mailto:puntocdv@caminodevida.com" style="color:#0f6b5a; text-decoration:none;">Contáctanos</a></div>
+              </td>
+            </tr>
+
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
